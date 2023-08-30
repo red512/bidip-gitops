@@ -9,7 +9,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/red512/bigip-gitops
+    repoURL: https://github.com/red512/bidip-gitops
     targetRevision: HEAD
     path: gitops/environments/staging/backend
   destination:
