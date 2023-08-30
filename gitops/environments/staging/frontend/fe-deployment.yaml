@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: frontend
-        image: projectred521/react-ip-multi-stage:v0.1.1
+        image: projectred521/react-ip-multi-stage:latest
         resources:
           limits:
             memory: "256Mi"

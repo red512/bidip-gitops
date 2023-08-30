@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: backend
-        image: projectred521/flask-ip:v0.1.0
+        image: projectred521/flask-ip:latest
         resources:
           limits:
             memory: "256Mi"
